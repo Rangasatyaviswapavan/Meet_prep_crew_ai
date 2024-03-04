@@ -1,6 +1,4 @@
-Certainly! Here's a simple README.md template you can use to describe your project on GitHub:
 
-```markdown
 # Meeting Preparation Tool
 
 This is a tool for automating meeting preparation tasks such as research, industry analysis, and strategy development. It leverages CrewAI for task execution and Streamlit for the user interface.
@@ -46,6 +44,3 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-Make sure to replace `"yourusername"` in the repository URL with your actual GitHub username. You can customize this template further based on your project's specifics.
